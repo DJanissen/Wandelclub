@@ -1,0 +1,86 @@
+header{
+    background-color: lightgreen;
+    color: black;
+    width: 700px;
+    min-height: 50px;
+    font-weight: normal; 
+}
+
+
+body {
+    background-color: rgb(222, 255, 208);
+    width: 700px;
+    min-height: 50px;
+    font-weight: normal;
+}
+    table, th, td {
+    border: 1px solid;
+  }
+  #datum-tabel{
+    background-color: rgb(100, 255, 100);
+    color: rgb(255, 10, 10)
+
+  }
+  #locatie-tabel{
+    background-color: rgb(110, 255, 110);
+  }
+  #gids-tabel{
+    background-color: rgb(120, 255, 120);
+    
+  }
+  #afstand-tabel{
+    background-color: rgb(130, 255, 130);
+    color: rgb(245, 10, 10)
+  }
+#datum-tabel-rij1{
+    background-color: rgb(100, 240, 100);
+    color: rgb(255, 30, 30)
+}
+#locatie-tabel-rij1{
+    background-color: rgb(110, 240, 110);
+}
+#gids-tabel-rij1{
+    background-color: rgb(120, 240, 120);
+    
+}
+#afstand-tabel-rij1{
+    background-color: rgb(130, 240, 130);
+    color: rgb(245, 30, 30)
+}
+#datum-tabel-rij2{
+    background-color: rgb(100, 220, 100);
+    color: rgb(255, 50, 50)
+}
+#locatie-tabel-rij2{
+    background-color: rgb(110, 220, 110);
+}
+#gids-tabel-rij2{
+    background-color: rgb(120, 220, 120);
+    
+}
+#afstand-tabel-rij2{
+    background-color: rgb(130, 220, 130);
+    color: rgb(245, 50, 50)
+}
+
+#datum-tabel-rij3{
+    background-color: rgb(100, 200, 100);
+    color: rgb(255, 70, 70)
+}
+#locatie-tabel-rij3{
+    background-color: rgb(110, 200, 110);
+}
+#gids-tabel-rij3{
+    background-color: rgb(120, 200, 120);
+    
+}
+#afstand-tabel-rij3{
+    background-color: rgb(130, 200, 130);
+    color: rgb(245, 70, 70)
+}
+footer{
+    background-color: greenyellow;
+    width: 700px;
+    min-height: 50px;
+    font-weight: bold;
+}
