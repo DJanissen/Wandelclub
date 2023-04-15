@@ -84,3 +84,7 @@ footer{
     min-height: 50px;
     font-weight: bold;
 }
+
+img{
+    width: 100px; height: 50px;
+}
